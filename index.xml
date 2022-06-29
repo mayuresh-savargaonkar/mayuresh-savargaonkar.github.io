@@ -276,5 +276,13 @@ $$&lt;/p&gt;
       <description></description>
     </item>
     
+    <item>
+      <title>Skills</title>
+      <link>https://example.com/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/skills/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
