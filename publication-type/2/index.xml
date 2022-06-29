@@ -14,9 +14,9 @@
     
     <item>
       <title>A Novel Neural Network with Gaussian Process Feedback for Modeling the State-of-Charge of Battery Cells</title>
-      <link>https://example.com/publication/example/</link>
+      <link>https://example.com/publication/nngp/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
+      <guid>https://example.com/publication/nngp/</guid>
       <description>&lt;h1 id=&#34;div-classalert-alert-note&#34;&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
   &lt;div&gt;
     &lt;h1 id=&#34;click-the-_cite_-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata--into-their-reference-management-software&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata # into their reference management software.&lt;/h1&gt;
@@ -34,10 +34,10 @@
     </item>
     
     <item>
-      <title>A Novel Neural Network with Gaussian Process Feedback for Modeling the State-of-Charge of Battery Cells</title>
-      <link>https://example.com/publication/example2/</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example2/</guid>
+      <title>Conditional Gaussian Mixture Model for Warranty Claims Forecasting</title>
+      <link>https://example.com/publication/cgmm/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/cgmm/</guid>
       <description>&lt;h1 id=&#34;div-classalert-alert-note&#34;&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
   &lt;div&gt;
     &lt;h1 id=&#34;click-the-_cite_-button-above-to-demo-the-feature-to-enable-visitors-to-import-publication-metadata--into-their-reference-management-software&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata # into their reference management software.&lt;/h1&gt;
