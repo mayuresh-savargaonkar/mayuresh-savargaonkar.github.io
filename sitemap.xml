@@ -4,6 +4,14 @@
   
   
   <url>
+    <loc>https://example.com/accomplishments/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/posts/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/projects/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/talks/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
