@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries</title>
+      <link>https://example.com/publication/savargaonkar-2020-adaptive/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/savargaonkar-2020-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RMOPP: Robust Multi-Objective Post-Processing for Effective Object Detection</title>
       <link>https://example.com/publication/rmopp/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
@@ -65,14 +73,6 @@
       <link>https://example.com/publication/shi-2020-long/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/shi-2020-long/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An adaptive deep neural network with transfer learning for state-of-charge estimations of battery cells</title>
-      <link>https://example.com/publication/savargaonkar-2020-adaptive/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/savargaonkar-2020-adaptive/</guid>
       <description></description>
     </item>
     
