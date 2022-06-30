@@ -65,12 +65,11 @@
     </item>
     
     <item>
-      <title>NHTSA -  ADAS Crash Report. What next?</title>
+      <title>NHTSA publishes first ever ADAS related crash report, what comes next?</title>
       <link>https://example.com/post/nhtsa_probe/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/nhtsa_probe/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Interesting article by Wall Street Journal on the list of crashes suspected to be related to ADAS features.&lt;/p&gt;
 &lt;p&gt;As more vehicles are sold with Driver Assistance features, unknown failures are on the rise. The &amp;ldquo;curse of dimensionality&amp;rdquo; critically limits our abilities to dive into the unknown of unknowns!&lt;/p&gt;
 &lt;p&gt;Many questions remain-&lt;/p&gt;
 &lt;ul&gt;
@@ -81,7 +80,8 @@
 &lt;li&gt;Can we develop, use and exploit V2I and V2V communications?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;One thing is certain- we need to critically accelerate the learning from such incidents. How to do that is the pressing question!&lt;/p&gt;
-&lt;p&gt;Actual data from NHTSA- &lt;a href=&#34;https://lnkd.in/gnmpm7sp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lnkd.in/gnmpm7sp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[Actual data from NHTSA-] (&lt;a href=&#34;https://www.nhtsa.gov/press-releases/initial-data-release-advanced-vehicle-technologies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nhtsa.gov/press-releases/initial-data-release-advanced-vehicle-technologies&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;[Original Linkedin post] (&lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:6942855578893385728/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/feed/update/urn:li:activity:6942855578893385728/&lt;/a&gt;)&lt;/p&gt;
 &lt;p&gt;#selfdriving #autopilot #autonomousdriving #autonomousvehicles #data #safety #wallstreetjournal #ai #algorithms&lt;/p&gt;
 </description>
     </item>
