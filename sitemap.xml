@@ -20,7 +20,7 @@
   <url>
     <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-06-30T16:27:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication-type/2/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -32,19 +32,17 @@
   <url>
     <loc></loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2022-06-30T16:27:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication_types/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2022-06-30T16:27:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/cgmm/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2022-06-30T16:27:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/publication-type/1/</loc><lastmod>2021-08-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/publication/oyewole-2021-hybrid/</loc><lastmod>2021-08-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://example.com/publication/savargaonkar-2020-cycle/</loc><lastmod>2021-08-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2021-08-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -74,17 +72,13 @@
   <url>
     <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://example.com/publication/savargaonkar-2020-cycle/</loc><lastmod>2020-08-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/publication/shi-2020-long/</loc><lastmod>2020-08-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://example.com/publication/savargaonkar-2020-adaptive/</loc><lastmod>2020-08-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/shi-2020-long/</loc><lastmod>2022-06-30T16:27:52-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-06-30T16:27:52-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-06-30T16:27:52-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-06-30T16:27:52-04:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2022-06-30T16:27:52-04:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2020-08-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2019-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

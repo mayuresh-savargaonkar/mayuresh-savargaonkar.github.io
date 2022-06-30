@@ -37,14 +37,6 @@
     </item>
     
     <item>
-      <title>A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries</title>
-      <link>https://example.com/publication/savargaonkar-2020-cycle/</link>
-      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/savargaonkar-2020-cycle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sparse Autoencoded Long Short-Term Memory Network for State-of-Charge Estimations</title>
       <link>https://example.com/publication/savargaonkar-2021-sparse/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
@@ -61,18 +53,26 @@
     </item>
     
     <item>
-      <title>An Adaptive Deep Neural Network with Transfer Learning for State-of-Charge Estimations of Battery Cells</title>
-      <link>https://example.com/publication/savargaonkar-2020-adaptive/</link>
+      <title>A Cycle-based Recurrent Neural Network for State-of-Charge Estimation of Li-ion Battery Cells</title>
+      <link>https://example.com/publication/savargaonkar-2020-cycle/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/savargaonkar-2020-adaptive/</guid>
+      <guid>https://example.com/publication/savargaonkar-2020-cycle/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A long short-term memory network for online state-of-charge estimation of li-ion battery cells</title>
+      <title>A Long Short-Term Memory Network for Online State-of-Charge Estimation of Li-ion Battery Cells</title>
       <link>https://example.com/publication/shi-2020-long/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/shi-2020-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive Deep Neural Network with Transfer Learning for State-of-Charge Estimations of Battery Cells</title>
+      <link>https://example.com/publication/savargaonkar-2020-adaptive/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/savargaonkar-2020-adaptive/</guid>
       <description></description>
     </item>
     

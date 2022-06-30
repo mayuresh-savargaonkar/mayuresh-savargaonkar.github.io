@@ -64,7 +64,7 @@
   
     
   
-  <meta name="description" content="This paper proposes the Sparse Autoencoded Long Short-Term Memory network (SAEL) for long-term State-of-Charge (SOC) estimations. SAEL addresses the challenge of estimating the SOC near the end-of-life after only running a few charge-discharge cycles. SAEL transforms the inputs (e.g., voltage) into a space of informative features for SOC estimations. SAEL then feeds the transformed features into an LSTM network to identify temporal trends that support long-term SOC estimation. In our experiments, SAEL outperformed benchmark models by over 63% when evaluated on three battery cells. SAEL showed an MAE of 2.6% for the last twenty cycles when trained only on the initial five charge-discharge cycles." />
+  <meta name="description" content="This paper proposes a neural network model for state-of-charge (SOC) estimation in lithium-ion battery cells. The proposed deep neural network model is a cycle-based recurrent model that leverages relevant information from historical cycles to provide reliable estimates of the state-of-charge of on-going cycles within a mean-absolute error (MAE) of 1%. In addition, the proposed model can be trained in a relatively short time. Details on the model followed by experimental verification are provided." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://example.com/publication/savargaonkar-2020-cycle/" />
@@ -312,17 +312,17 @@
   
   <meta property="og:site_name" content="Mayuresh Savargaonkar" />
   <meta property="og:url" content="https://example.com/publication/savargaonkar-2020-cycle/" />
-  <meta property="og:title" content="A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries | Mayuresh Savargaonkar" />
-  <meta property="og:description" content="This paper proposes the Sparse Autoencoded Long Short-Term Memory network (SAEL) for long-term State-of-Charge (SOC) estimations. SAEL addresses the challenge of estimating the SOC near the end-of-life after only running a few charge-discharge cycles. SAEL transforms the inputs (e.g., voltage) into a space of informative features for SOC estimations. SAEL then feeds the transformed features into an LSTM network to identify temporal trends that support long-term SOC estimation. In our experiments, SAEL outperformed benchmark models by over 63% when evaluated on three battery cells. SAEL showed an MAE of 2.6% for the last twenty cycles when trained only on the initial five charge-discharge cycles." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:title" content="A Cycle-based Recurrent Neural Network for State-of-Charge Estimation of Li-ion Battery Cells | Mayuresh Savargaonkar" />
+  <meta property="og:description" content="This paper proposes a neural network model for state-of-charge (SOC) estimation in lithium-ion battery cells. The proposed deep neural network model is a cycle-based recurrent model that leverages relevant information from historical cycles to provide reliable estimates of the state-of-charge of on-going cycles within a mean-absolute error (MAE) of 1%. In addition, the proposed model can be trained in a relatively short time. Details on the model followed by experimental verification are provided." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2021-08-02T00:00:00&#43;00:00"
+        content="2020-08-07T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-08-02T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-08-07T00:00:00&#43;00:00">
   
 
   
@@ -346,10 +346,10 @@
     "@type": "WebPage",
     "@id": "https://example.com/publication/savargaonkar-2020-cycle/"
   },
-  "headline": "A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries",
+  "headline": "A Cycle-based Recurrent Neural Network for State-of-Charge Estimation of Li-ion Battery Cells",
   
-  "datePublished": "2021-08-02T00:00:00Z",
-  "dateModified": "2021-08-02T00:00:00Z",
+  "datePublished": "2020-08-07T00:00:00Z",
+  "dateModified": "2020-08-07T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -364,7 +364,7 @@
       "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "This paper proposes the Sparse Autoencoded Long Short-Term Memory network (SAEL) for long-term State-of-Charge (SOC) estimations. SAEL addresses the challenge of estimating the SOC near the end-of-life after only running a few charge-discharge cycles. SAEL transforms the inputs (e.g., voltage) into a space of informative features for SOC estimations. SAEL then feeds the transformed features into an LSTM network to identify temporal trends that support long-term SOC estimation. In our experiments, SAEL outperformed benchmark models by over 63% when evaluated on three battery cells. SAEL showed an MAE of 2.6% for the last twenty cycles when trained only on the initial five charge-discharge cycles."
+  "description": "This paper proposes a neural network model for state-of-charge (SOC) estimation in lithium-ion battery cells. The proposed deep neural network model is a cycle-based recurrent model that leverages relevant information from historical cycles to provide reliable estimates of the state-of-charge of on-going cycles within a mean-absolute error (MAE) of 1%. In addition, the proposed model can be trained in a relatively short time. Details on the model followed by experimental verification are provided."
 }
 </script>
 
@@ -380,7 +380,7 @@
 
 
 
-  <title>A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries | Mayuresh Savargaonkar</title>
+  <title>A Cycle-based Recurrent Neural Network for State-of-Charge Estimation of Li-ion Battery Cells | Mayuresh Savargaonkar</title>
 </head>
 
 
@@ -713,7 +713,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries</h1>
+  <h1>A Cycle-based Recurrent Neural Network for State-of-Charge Estimation of Li-ion Battery Cells</h1>
 
   
 
@@ -732,8 +732,8 @@
 
   <span class="author-highlighted">
       Mayuresh Savargaonkar</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Primary author"></i>, <span >
-      Isaiah Oyewole</span>, <span >
       Abdallah Chehade</span>, <span >
+      Zunya Shi</span>, <span >
       Ala A. Hussein</span>
   </div>
   
@@ -745,7 +745,7 @@
     
       
     
-    August, 2021
+    August, 2020
   </span>
   
 
@@ -785,7 +785,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://ieeexplore.ieee.org/abstract/document/9490070" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://ieeexplore.ieee.org/abstract/document/9161587" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -808,7 +808,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/%20https://doi.org/10.1109/ITEC51675.2021.9490070" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/https://doi.org/10.1109/ITEC48692.2020.9161587" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -826,7 +826,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">This paper proposes the Sparse Autoencoded Long Short-Term Memory network (SAEL) for long-term State-of-Charge (SOC) estimations. SAEL addresses the challenge of estimating the SOC near the end-of-life after only running a few charge-discharge cycles. SAEL transforms the inputs (e.g., voltage) into a space of informative features for SOC estimations. SAEL then feeds the transformed features into an LSTM network to identify temporal trends that support long-term SOC estimation. In our experiments, SAEL outperformed benchmark models by over 63% when evaluated on three battery cells. SAEL showed an MAE of 2.6% for the last twenty cycles when trained only on the initial five charge-discharge cycles.</p>
+    <p class="pub-abstract">This paper proposes a neural network model for state-of-charge (SOC) estimation in lithium-ion battery cells. The proposed deep neural network model is a cycle-based recurrent model that leverages relevant information from historical cycles to provide reliable estimates of the state-of-charge of on-going cycles within a mean-absolute error (MAE) of 1%. In addition, the proposed model can be trained in a relatively short time. Details on the model followed by experimental verification are provided.</p>
     
 
     
@@ -854,7 +854,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">2021 IEEE Transportation Electrification Conference &amp; Expo (ITEC)</div>
+          <div class="col-12 col-md-9">2020 IEEE Transportation Electrification Conference &amp; Expo (ITEC)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -884,7 +884,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://example.com/publication/savargaonkar-2020-cycle/&amp;text=A%20Hybrid%20Long%20Short-Term%20Memory%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Batteries" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://example.com/publication/savargaonkar-2020-cycle/&amp;text=A%20Cycle-based%20Recurrent%20Neural%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Battery%20Cells" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -897,7 +897,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://example.com/publication/savargaonkar-2020-cycle/&amp;t=A%20Hybrid%20Long%20Short-Term%20Memory%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Batteries" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://example.com/publication/savargaonkar-2020-cycle/&amp;t=A%20Cycle-based%20Recurrent%20Neural%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Battery%20Cells" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -910,7 +910,7 @@
       
       
       <li>
-        <a href="mailto:?subject=A%20Hybrid%20Long%20Short-Term%20Memory%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Batteries&amp;body=https://example.com/publication/savargaonkar-2020-cycle/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=A%20Cycle-based%20Recurrent%20Neural%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Battery%20Cells&amp;body=https://example.com/publication/savargaonkar-2020-cycle/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -923,7 +923,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://example.com/publication/savargaonkar-2020-cycle/&amp;title=A%20Hybrid%20Long%20Short-Term%20Memory%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Batteries" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://example.com/publication/savargaonkar-2020-cycle/&amp;title=A%20Cycle-based%20Recurrent%20Neural%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Battery%20Cells" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -936,7 +936,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=A%20Hybrid%20Long%20Short-Term%20Memory%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Batteries%20https://example.com/publication/savargaonkar-2020-cycle/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=A%20Cycle-based%20Recurrent%20Neural%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Battery%20Cells%20https://example.com/publication/savargaonkar-2020-cycle/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -949,7 +949,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://example.com/publication/savargaonkar-2020-cycle/&amp;title=A%20Hybrid%20Long%20Short-Term%20Memory%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Batteries" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://example.com/publication/savargaonkar-2020-cycle/&amp;title=A%20Cycle-based%20Recurrent%20Neural%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Battery%20Cells" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
