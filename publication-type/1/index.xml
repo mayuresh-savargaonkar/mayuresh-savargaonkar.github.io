@@ -5,7 +5,7 @@
     <link>https://example.com/publication-type/1/</link>
       <atom:link href="https://example.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,22 +13,51 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>A hybrid long short-term memory network for state-of-charge estimation of Li-ion batteries</title>
+      <link>https://example.com/publication/oyewole-2021-hybrid/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/oyewole-2021-hybrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse Autoencoded Long Short-Term Memory Network for State-of-Charge Estimations</title>
+      <link>https://example.com/publication/savargaonkar-2021-sparse/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/savargaonkar-2021-sparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A cycle-based recurrent neural network for state-of-charge estimation of Li-ion battery cells</title>
+      <link>https://example.com/publication/savargaonkar-2020-cycle/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/savargaonkar-2020-cycle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A long short-term memory network for online state-of-charge estimation of li-ion battery cells</title>
+      <link>https://example.com/publication/shi-2020-long/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/shi-2020-long/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An adaptive deep neural network with transfer learning for state-of-charge estimations of battery cells</title>
+      <link>https://example.com/publication/savargaonkar-2020-adaptive/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/savargaonkar-2020-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyword Extraction Performance Analysis</title>
+      <link>https://example.com/publication/kumbhar-2019-keyword/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/kumbhar-2019-keyword/</guid>
+      <description></description>
     </item>
     
   </channel>
