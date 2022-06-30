@@ -28,5 +28,13 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Energy Generation Solution Using Steam Turbine</title>
+      <link>https://example.com/publication/turbine/</link>
+      <pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/turbine/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
