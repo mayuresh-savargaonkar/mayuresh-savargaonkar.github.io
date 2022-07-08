@@ -18,27 +18,7 @@
       <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://mayuresh-savargaonkar.github.io/post/cruise_block/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.getcruise.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cruise&lt;/a&gt; is one of the leading companies developing autonomous vehicles and robotaxis. They also recently started advertising their &amp;lsquo;Fully autonomous robotaxis&amp;rsquo; in Sanfrancisco, CA after receiving a driverless CPUC license. Immediately a few days later we had reports of these robotaxis being pulled over by cops 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.youtube.com/watch?v=1DZL0i51tRs&#34; alt=&#34;video&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-. What happened for the taxis to pull over ? Cruise has been silent for quite a while.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.getcruise.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cruise&lt;/a&gt; is one of the leading companies developing autonomous vehicles and robotaxis. They also recently started advertising their &amp;lsquo;Fully autonomous robotaxis&amp;rsquo; in Sanfrancisco, CA after receiving a driverless CPUC license. Immediately a few days later we had reports of these robotaxis being pulled over by cops &lt;a href=&#34;https://www.youtube.com/watch?v=1DZL0i51tRs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;video here&lt;/a&gt;. What happened for the taxis to pull over ? Cruise has been silent for quite a while.&lt;/p&gt;
 &lt;p&gt;On the whole it looks like either a networking issue that is causing the V2X communications to fail or complex mapping error. Either all mapped end destinations were the same or the rasterized HD maps had some bugs. No one knows for now apart from cruise! Although the issue looks to be mundane at first, there are several implications that one needs to think of -&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;What happens when the fleet expands ? Can we have map free solutions ?&lt;/li&gt;
@@ -65,48 +45,8 @@
 &lt;li&gt;Can we develop, use and exploit V2I and V2V communications?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;One thing is certain- we need to critically accelerate the learning from such incidents. How to do that is the pressing question!&lt;/p&gt;
-&lt;p&gt;Actual 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.nhtsa.gov/press-releases/initial-data-release-advanced-vehicle-technologies&#34; alt=&#34;data&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
- from NHTSA&lt;/p&gt;
-&lt;p&gt;Original 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://www.linkedin.com/feed/update/urn:li:activity:6942855578893385728/&#34; alt=&#34;post&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
+&lt;p&gt;Actual &lt;a href=&#34;https://www.nhtsa.gov/press-releases/initial-data-release-advanced-vehicle-technologies&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt; from NHTSA&lt;/p&gt;
+&lt;p&gt;Original &lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:6942855578893385728/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;post&lt;/a&gt;
 #selfdriving #autopilot #autonomousdriving #autonomousvehicles #data #safety #wallstreetjournal #ai #algorithms&lt;/p&gt;
 </description>
     </item>
