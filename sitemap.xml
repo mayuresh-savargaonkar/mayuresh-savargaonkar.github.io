@@ -4,96 +4,96 @@
   
   
   <url>
-    <loc>https://example.com/accomplishments/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/accomplishments/</loc><lastmod>2022-06-29T12:17:11-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/projects/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/projects/</loc><lastmod>2022-06-29T12:17:11-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/talks/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/talks/</loc><lastmod>2022-06-29T12:17:11-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/tags/</loc><lastmod>2022-06-29T12:26:09-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/talk/example-talk/</loc><lastmod>2022-04-24T03:20:45+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/</loc><lastmod>2022-06-30T17:42:32-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/post/nhtsa_probe/</loc><lastmod>2022-06-30T17:42:32-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication-type/2/</loc><lastmod>2022-06-30T17:12:42-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication/nngp/</loc><lastmod>2022-06-30T17:11:31-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/nhtsa_probe/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T17:11:31-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-06-30T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T17:11:31-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/2/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication_types/</loc><lastmod>2022-06-30T17:12:42-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/nngp/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication/cgmm/</loc><lastmod>2022-06-30T17:11:31-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T17:11:31-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication-type/1/</loc><lastmod>2022-06-30T17:09:18-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication_types/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication/oyewole-2021-hybrid/</loc><lastmod>2022-06-30T16:55:47-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/</loc><lastmod>2022-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T17:03:32-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/cgmm/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication/savargaonkar-2021-sparse/</loc><lastmod>2022-06-30T17:03:32-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication-type/3/</loc><lastmod>2022-06-30T16:57:15-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/1/</loc><lastmod>2021-08-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication/rmopp/</loc><lastmod>2022-06-30T16:57:15-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/oyewole-2021-hybrid/</loc><lastmod>2021-08-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T16:57:15-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2021-08-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication/savargaonkar-2020-cycle/</loc><lastmod>2022-06-30T17:09:18-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/savargaonkar-2021-sparse/</loc><lastmod>2021-08-02T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication/shi-2020-long/</loc><lastmod>2022-06-30T17:09:18-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication-type/3/</loc><lastmod>2021-02-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication/savargaonkar-2020-adaptive/</loc><lastmod>2022-06-30T17:03:32-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/rmopp/</loc><lastmod>2021-02-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T17:09:18-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2021-02-09T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T16:51:07-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/savargaonkar-2020-cycle/</loc><lastmod>2020-08-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T16:51:07-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/shi-2020-long/</loc><lastmod>2020-08-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T16:51:07-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/savargaonkar-2020-adaptive/</loc><lastmod>2020-08-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication/kumbhar-2019-keyword/</loc><lastmod>2022-06-30T16:51:07-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2020-08-07T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T16:51:07-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2019-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/slides/</loc><lastmod>2022-04-24T03:20:45+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2019-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/slides/example/</loc><lastmod>2022-04-24T03:20:45+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2019-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/tag/deep-learning/</loc><lastmod>2022-04-24T03:20:45+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/kumbhar-2019-keyword/</loc><lastmod>2019-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/project/example/</loc><lastmod>2022-04-24T03:20:45+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2019-04-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/project/</loc><lastmod>2022-04-24T03:20:45+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/tags/</loc><lastmod>2022-04-24T03:20:45+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T17:12:42-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T17:12:42-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication/turbine/</loc><lastmod>2022-06-30T17:12:42-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T17:12:42-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2021-01-23T19:43:06+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2015-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/categories/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2015-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-06-30T16:03:15-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/publication/turbine/</loc><lastmod>2015-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/post/</loc><lastmod>2022-04-24T03:20:45+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2015-04-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/publication/</loc><lastmod>2022-06-30T17:17:00-04:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://mayuresh-savargaonkar.github.io/event/</loc><lastmod>2022-04-24T03:20:45+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/skills/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://mayuresh-savargaonkar.github.io/skills/</loc><lastmod>2022-06-28T23:31:19-04:00</lastmod><changefreq>weekly</changefreq></url></urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Mayuresh Savargaonkar</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mayuresh-savargaonkar.github.io/post/</link>
+      <atom:link href="https://mayuresh-savargaonkar.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>https://mayuresh-savargaonkar.github.io/post/</link>
     </image>
     
     <item>
       <title>NHTSA publishes first ever ADAS related crash report, what comes next?</title>
-      <link>https://example.com/post/nhtsa_probe/</link>
+      <link>https://mayuresh-savargaonkar.github.io/post/nhtsa_probe/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/nhtsa_probe/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/post/nhtsa_probe/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;As more vehicles are sold with Driver Assistance features, unknown failures are on the rise. The &amp;ldquo;curse of dimensionality&amp;rdquo; critically limits our abilities to dive into the unknown of unknowns!&lt;/p&gt;
 &lt;p&gt;Many questions remain-&lt;/p&gt;

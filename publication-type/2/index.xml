@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Mayuresh Savargaonkar</title>
-    <link>https://example.com/publication-type/2/</link>
-      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mayuresh-savargaonkar.github.io/publication-type/2/</link>
+      <atom:link href="https://mayuresh-savargaonkar.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://example.com/publication-type/2/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication-type/2/</link>
     </image>
     
     <item>
       <title>A Novel Neural Network with Gaussian Process Feedback for Modeling the State-of-Charge of Battery Cells</title>
-      <link>https://example.com/publication/nngp/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/nngp/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/nngp/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/nngp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional Gaussian Mixture Model for Warranty Claims Forecasting</title>
-      <link>https://example.com/publication/cgmm/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/cgmm/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/cgmm/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/cgmm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy Generation Solution Using Steam Turbine</title>
-      <link>https://example.com/publication/turbine/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/turbine/</link>
       <pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/turbine/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/turbine/</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mayuresh Savargaonkar</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mayuresh-savargaonkar.github.io/</link>
+      <atom:link href="https://mayuresh-savargaonkar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mayuresh Savargaonkar</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
       <title>Mayuresh Savargaonkar</title>
-      <link>https://example.com/</link>
+      <link>https://mayuresh-savargaonkar.github.io/</link>
     </image>
     
     <item>
       <title>Accomplish&amp;shy;ments</title>
-      <link>https://example.com/accomplishments/</link>
+      <link>https://mayuresh-savargaonkar.github.io/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/accomplishments/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/accomplishments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/projects/</link>
+      <link>https://mayuresh-savargaonkar.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://example.com/talks/</link>
+      <link>https://mayuresh-savargaonkar.github.io/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talks/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Popular Topics</title>
-      <link>https://example.com/tags/</link>
+      <link>https://mayuresh-savargaonkar.github.io/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/tags/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://mayuresh-savargaonkar.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -66,9 +66,9 @@
     
     <item>
       <title>NHTSA publishes first ever ADAS related crash report, what comes next?</title>
-      <link>https://example.com/post/nhtsa_probe/</link>
+      <link>https://mayuresh-savargaonkar.github.io/post/nhtsa_probe/</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/nhtsa_probe/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/post/nhtsa_probe/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;As more vehicles are sold with Driver Assistance features, unknown failures are on the rise. The &amp;ldquo;curse of dimensionality&amp;rdquo; critically limits our abilities to dive into the unknown of unknowns!&lt;/p&gt;
 &lt;p&gt;Many questions remain-&lt;/p&gt;
@@ -88,81 +88,81 @@
     
     <item>
       <title>A Novel Neural Network with Gaussian Process Feedback for Modeling the State-of-Charge of Battery Cells</title>
-      <link>https://example.com/publication/nngp/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/nngp/</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/nngp/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/nngp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional Gaussian Mixture Model for Warranty Claims Forecasting</title>
-      <link>https://example.com/publication/cgmm/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/cgmm/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/cgmm/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/cgmm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries</title>
-      <link>https://example.com/publication/oyewole-2021-hybrid/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/oyewole-2021-hybrid/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/oyewole-2021-hybrid/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/oyewole-2021-hybrid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sparse Autoencoded Long Short-Term Memory Network for State-of-Charge Estimations</title>
-      <link>https://example.com/publication/savargaonkar-2021-sparse/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/savargaonkar-2021-sparse/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/savargaonkar-2021-sparse/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/savargaonkar-2021-sparse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RMOPP: Robust Multi-Objective Post-Processing for Effective Object Detection</title>
-      <link>https://example.com/publication/rmopp/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/rmopp/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/rmopp/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/rmopp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Cycle-based Recurrent Neural Network for State-of-Charge Estimation of Li-ion Battery Cells</title>
-      <link>https://example.com/publication/savargaonkar-2020-cycle/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/savargaonkar-2020-cycle/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/savargaonkar-2020-cycle/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/savargaonkar-2020-cycle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Long Short-Term Memory Network for Online State-of-Charge Estimation of Li-ion Battery Cells</title>
-      <link>https://example.com/publication/shi-2020-long/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/shi-2020-long/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/shi-2020-long/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/shi-2020-long/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Adaptive Deep Neural Network with Transfer Learning for State-of-Charge Estimations of Battery Cells</title>
-      <link>https://example.com/publication/savargaonkar-2020-adaptive/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/savargaonkar-2020-adaptive/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/savargaonkar-2020-adaptive/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/savargaonkar-2020-adaptive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conditional Gaussian Mixture Model for Warranty Claims Forecasting</title>
-      <link>https://example.com/publication/kumbhar-2019-keyword/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/kumbhar-2019-keyword/</link>
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/kumbhar-2019-keyword/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/kumbhar-2019-keyword/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://mayuresh-savargaonkar.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -285,9 +285,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://mayuresh-savargaonkar.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -298,25 +298,25 @@ $$&lt;/p&gt;
     
     <item>
       <title>Energy Generation Solution Using Steam Turbine</title>
-      <link>https://example.com/publication/turbine/</link>
+      <link>https://mayuresh-savargaonkar.github.io/publication/turbine/</link>
       <pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/turbine/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/turbine/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://mayuresh-savargaonkar.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>https://example.com/skills/</link>
+      <link>https://mayuresh-savargaonkar.github.io/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/skills/</guid>
+      <guid>https://mayuresh-savargaonkar.github.io/skills/</guid>
       <description></description>
     </item>
     
