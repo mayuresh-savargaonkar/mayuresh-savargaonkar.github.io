@@ -17,7 +17,7 @@
       <link>https://mayuresh-savargaonkar.github.io/project/deepicar/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://mayuresh-savargaonkar.github.io/project/deepicar/</guid>
-      <description>&lt;p&gt;(LKAS.gif)&lt;/p&gt;
+      <description>&lt;img alt=&#34;&#34; src=&#34;LKAS.gif&#34; /&gt;
 &lt;p&gt;Autonomous vehicles have always intrigued me! Until today, I was fortunate to align and work along with excellent minds at the University of Michigan and Ford Motor Company. Although I have a some experience with AV stacks, I never played with hardware - until now.&lt;/p&gt;
 &lt;p&gt;This project was made possible by awesome guides by &lt;a href=&#34;https://towardsdatascience.com/deeppicar-part-1-102e03c83f2c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Tian&lt;/a&gt; and the hardware sold by Sunfounder&amp;rsquo;s PiCar project. However, some of the installation procedures, codes and algorithms are from 2019 and may or may not work in 2022. In the case that you are another AV enthusiast like me and don&amp;rsquo;t want to waste time trying to figure why the car wont lane center, I will upload all modified codes &lt;a href=&#34;https://github.com/mayuresh-savargaonkar/custom_picar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Hardware -&lt;/p&gt;
