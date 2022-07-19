@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deep Learning | Mayuresh Savargaonkar</title>
-    <link>https://mayuresh-savargaonkar.github.io/tag/deep-learning/</link>
-      <atom:link href="https://mayuresh-savargaonkar.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>Deep Learning</description>
+    <title>Self-driving Cars | Mayuresh Savargaonkar</title>
+    <link>https://mayuresh-savargaonkar.github.io/tag/self-driving-cars/</link>
+      <atom:link href="https://mayuresh-savargaonkar.github.io/tag/self-driving-cars/index.xml" rel="self" type="application/rss+xml" />
+    <description>Self-driving Cars</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
-      <title>Deep Learning</title>
-      <link>https://mayuresh-savargaonkar.github.io/tag/deep-learning/</link>
+      <title>Self-driving Cars</title>
+      <link>https://mayuresh-savargaonkar.github.io/tag/self-driving-cars/</link>
     </image>
     
     <item>
