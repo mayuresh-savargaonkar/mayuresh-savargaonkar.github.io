@@ -22,8 +22,8 @@
 &lt;p&gt;This project was made possible by awesome guides by &lt;a href=&#34;https://towardsdatascience.com/deeppicar-part-1-102e03c83f2c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Tian&lt;/a&gt; and the hardware sold by Sunfounder&amp;rsquo;s PiCar project. However, some of the installation procedures, codes and algorithms are from 2019 and may or may not work in 2022. In the case that you are another AV enthusiast like me and don&amp;rsquo;t want to waste time trying to figure why the car wont lane center, I will upload all modified codes &lt;a href=&#34;https://github.com/mayuresh-savargaonkar/custom_picar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Hardware -&lt;/p&gt;
 &lt;p&gt;The PiCar hardware can be bought &lt;a href=&#34;https://www.amazon.com/SunFounder-Raspberry-Graphical-Programming-Electronic/dp/B06XWSVLL8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; for $100 a piece. Again, David Tian does an excellent job of summarizing all necessary hardware. Again though, I wasn&amp;rsquo;t able to find the 18650 batteries on amazon. I simply bought them at &lt;a href=&#34;https://www.batteriesplus.com/productdetails/nure18650=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BatteriesPlus&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;img_2.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;img_3.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;img alt=&#34;&#34; src=&#34;img_2.jpg&#34; /&gt;
+&lt;img alt=&#34;&#34; src=&#34;img_3.jpg&#34; /&gt;
 &lt;p&gt;Programming Skills-&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Familiarity with Python 3.x, PiP&lt;/li&gt;
