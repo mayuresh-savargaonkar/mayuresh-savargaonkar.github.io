@@ -5,7 +5,7 @@
     <link>https://mayuresh-savargaonkar.github.io/</link>
       <atom:link href="https://mayuresh-savargaonkar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mayuresh Savargaonkar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Oct 2022 10:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
       <title>Mayuresh Savargaonkar</title>
@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://mayuresh-savargaonkar.github.io/talks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mayuresh-savargaonkar.github.io/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Popular Topics</title>
       <link>https://mayuresh-savargaonkar.github.io/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -45,22 +37,11 @@
     </item>
     
     <item>
-      <title>Informs Annual Meeting</title>
-      <link>https://mayuresh-savargaonkar.github.io/talk/informs-annual-meeting/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://mayuresh-savargaonkar.github.io/talk/informs-annual-meeting/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <title>Informs Annual Meeting 2022</title>
+      <link>https://mayuresh-savargaonkar.github.io/talk/informs-annual-meeting-2022/</link>
+      <pubDate>Sat, 15 Oct 2022 10:00:00 +0000</pubDate>
+      <guid>https://mayuresh-savargaonkar.github.io/talk/informs-annual-meeting-2022/</guid>
+      <description>&lt;p&gt;Further event details, including the talk&amp;rsquo;s details and video trailer will be added soon after the talk! See you at Informs!&lt;/p&gt;
 </description>
     </item>
     
@@ -69,8 +50,9 @@
       <link>https://mayuresh-savargaonkar.github.io/project/deepicar/</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://mayuresh-savargaonkar.github.io/project/deepicar/</guid>
-      <description>&lt;img alt=&#34;&#34; src=&#34;LKAS.gif&#34; align=&#34;center&#34; /&gt;
+      <description>&lt;hr&gt;
 &lt;center&gt; Introduction &lt;/center&gt;
+&lt;img alt=&#34;&#34; src=&#34;LKAS.gif&#34; align=&#34;center&#34; /&gt;
 &lt;p&gt;Autonomous vehicles have always intrigued me! Until today, I was fortunate to align and work along with excellent minds at the University of Michigan and Ford Motor Company. Although I have a some experience with AV stacks, I never played with hardware - until now.&lt;/p&gt;
 &lt;p&gt;This project was made possible by awesome guides by &lt;a href=&#34;https://towardsdatascience.com/deeppicar-part-1-102e03c83f2c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Tian&lt;/a&gt; and the hardware sold by Sunfounder&amp;rsquo;s PiCar project. However, some of the installation procedures, codes and algorithms are from 2019 and may or may not work in 2022. In the case that you are another AV enthusiast like me and don&amp;rsquo;t want to waste time trying to figure why the car wont lane center, I will upload all modified codes &lt;a href=&#34;https://github.com/mayuresh-savargaonkar/custom_picar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
