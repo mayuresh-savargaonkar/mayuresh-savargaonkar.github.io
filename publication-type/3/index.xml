@@ -5,12 +5,20 @@
     <link>https://mayuresh-savargaonkar.github.io/publication-type/3/</link>
       <atom:link href="https://mayuresh-savargaonkar.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://mayuresh-savargaonkar.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>VTrackIt: A Synthetic Self-Driving Dataset with Infrastructure and Pooled Vehicle Information</title>
+      <link>https://mayuresh-savargaonkar.github.io/publication/vtrackit/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/vtrackit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RMOPP: Robust Multi-Objective Post-Processing for Effective Object Detection</title>
