@@ -5,7 +5,7 @@
     <link>https://mayuresh-savargaonkar.github.io/</link>
       <atom:link href="https://mayuresh-savargaonkar.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mayuresh Savargaonkar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Oct 2022 10:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
       <title>Mayuresh Savargaonkar</title>
@@ -33,6 +33,14 @@
       <link>https://mayuresh-savargaonkar.github.io/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mayuresh-savargaonkar.github.io/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncorrelated Sparse Autoencoder With Long Short-Term Memory for State-of-Charge Estimations in Lithium-Ion Battery Cells</title>
+      <link>https://mayuresh-savargaonkar.github.io/publication/usal/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/usal/</guid>
       <description></description>
     </item>
     
