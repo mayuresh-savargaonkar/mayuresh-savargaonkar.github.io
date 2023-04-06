@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research | Mayuresh Savargaonkar</title>
+    <link>https://mayuresh-savargaonkar.github.io/tag/research/</link>
+      <atom:link href="https://mayuresh-savargaonkar.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Oct 2022 10:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
+      <title>research</title>
+      <link>https://mayuresh-savargaonkar.github.io/tag/research/</link>
+    </image>
+    
+    <item>
+      <title>Informs Annual Meeting 2022</title>
+      <link>https://mayuresh-savargaonkar.github.io/talk/informs-annual-meeting-2022/</link>
+      <pubDate>Sat, 15 Oct 2022 10:00:00 +0000</pubDate>
+      <guid>https://mayuresh-savargaonkar.github.io/talk/informs-annual-meeting-2022/</guid>
+      <description>&lt;p&gt;This talk was presented at the INFORMS Annual Meeting and was sponsored by the QCRE division. Thank you all for attending!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
