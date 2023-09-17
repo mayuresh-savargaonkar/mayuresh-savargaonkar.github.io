@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electric Vehicles | Mayuresh Savargaonkar</title>
+    <link>https://mayuresh-savargaonkar.github.io/tag/electric-vehicles/</link>
+      <atom:link href="https://mayuresh-savargaonkar.github.io/tag/electric-vehicles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Electric Vehicles</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
+      <title>Electric Vehicles</title>
+      <link>https://mayuresh-savargaonkar.github.io/tag/electric-vehicles/</link>
+    </image>
+    
+    <item>
+      <title>The ChargeX Consortium publishes its first report!</title>
+      <link>https://mayuresh-savargaonkar.github.io/post/mrec/</link>
+      <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mayuresh-savargaonkar.github.io/post/mrec/</guid>
+      <description>&lt;p&gt;The flexibility offered by the Open Charge Point Protocol (OCPP) through the introduction of custom error codes also creates its own set of challenges. While the integration of custom error codes allows for enhanced granularity, it also introduces inconsistencies and fragmentation within the overarching diagnostic reporting system. Consequently, these custom error codes add an additional layer of complexity to the already intricate tasks of error reporting, diagnostics, and resolution. The variation in the definition of custom error codes makes it difficult to assess which entity in the charging ecosystem is responsible to correct errors and hinders the implementation of uniform error handling procedures across diverse charging stations and management systems. This results in prolonged resolution times and increased maintenance costs, resulting in decreased charging reliability. The challenge of charging reliability can be a significant obstacle to the widespread adoption of EVs, emphasizing the urgent need for a more robust approach to error handling across the EV charging ecosystem.&lt;/p&gt;
+&lt;p&gt;In this work, we tried delve deeper into this problem and recommend a set of error codes that (ideally) should be implemented by all concerned players in the EV charging ecosystem. This will help us all talk the same language and therefore improve the overall reliability of the EV charging ecosystem and take a step into the exciting EV future of the USA!&lt;/p&gt;
+&lt;p&gt;More details can be see at this &lt;a href=&#34;https://inl.gov/content/uploads/2023/07/ChargeX_MREC_Rev5_09.12.23.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;exclusive page&lt;/a&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

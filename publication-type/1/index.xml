@@ -5,12 +5,20 @@
     <link>https://mayuresh-savargaonkar.github.io/publication-type/1/</link>
       <atom:link href="https://mayuresh-savargaonkar.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://mayuresh-savargaonkar.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Orthogonal Autoencoder for Long-Term State-of-Charge Forecasting of Li-ion Battery Cells</title>
+      <link>https://mayuresh-savargaonkar.github.io/publication/oagnn/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/oagnn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries</title>
