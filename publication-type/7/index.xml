@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Mayuresh Savargaonkar</title>
+    <link>https://mayuresh-savargaonkar.github.io/publication-type/7/</link>
+      <atom:link href="https://mayuresh-savargaonkar.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
+      <title>7</title>
+      <link>https://mayuresh-savargaonkar.github.io/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Custom AI Architectures for Predictive Analytics Using Bayesian Statistics and Deep Learning</title>
+      <link>https://mayuresh-savargaonkar.github.io/publication/thesis/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
