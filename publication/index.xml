@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Orthogonal Autoencoder for Long-Term State-of-Charge Forecasting of Li-ion Battery Cells</title>
-      <link>https://mayuresh-savargaonkar.github.io/publication/oagnn/</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://mayuresh-savargaonkar.github.io/publication/oagnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Uncorrelated Sparse Autoencoder With Long Short-Term Memory for State-of-Charge Estimations in Lithium-Ion Battery Cells</title>
       <link>https://mayuresh-savargaonkar.github.io/publication/usal/</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
@@ -57,6 +49,14 @@
       <link>https://mayuresh-savargaonkar.github.io/publication/cgmm/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://mayuresh-savargaonkar.github.io/publication/cgmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries</title>
+      <link>https://mayuresh-savargaonkar.github.io/publication/oagnn/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/oagnn/</guid>
       <description></description>
     </item>
     
