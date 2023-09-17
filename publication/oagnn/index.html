@@ -65,7 +65,7 @@
   
     
   
-  <meta name="description" content="This paper proposes a hybrid LSTM network for robust state-of-charge estimation of Li-ion batteries. The proposed model improves the estimation accuracy of a typical LSTM by using the SOC estimations of other trained machine learning (ML) models in addition to the original measurable battery cell parameters to train the LSTM. The hybrid LSTM intrinsically learns to timely activate the proper ML model by learning the complex dependencies between the accuracy of ML models and cell parameters. The proposed model is shown to achieve around 25% improvement in MAE for the last twenty cycles (near end-of-life) SOC estimation." />
+  <meta name="description" content="This paper proposes an Orthogonal Autoencoded Long-Short- Term Memory (OALSTM) network for long-term the State-Of-Charge (SOC) forecasting in Lithium-ion (Li-ion) battery cells. By leveraging the use of LSTMs in capturing temporal trends and orthogonal Autoencoder for extracting non- trivial robust latent features, OALSTM can achieve precise and accurate long-term SOC estimations near the end-of-life. One key contribution is learning orthogonal temporal encodings that generalize for long-term forecasting because it reduces the likelihood of false multicollinearity. Our results show that OALSTM outperforms other benchmark models for long-term SOC estimation of Li-ion battery cells under varying charging and discharging conditions." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://mayuresh-savargaonkar.github.io/publication/oagnn/" />
@@ -352,17 +352,17 @@
   
   <meta property="og:site_name" content="Mayuresh Savargaonkar" />
   <meta property="og:url" content="https://mayuresh-savargaonkar.github.io/publication/oagnn/" />
-  <meta property="og:title" content="A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries | Mayuresh Savargaonkar" />
-  <meta property="og:description" content="This paper proposes a hybrid LSTM network for robust state-of-charge estimation of Li-ion batteries. The proposed model improves the estimation accuracy of a typical LSTM by using the SOC estimations of other trained machine learning (ML) models in addition to the original measurable battery cell parameters to train the LSTM. The hybrid LSTM intrinsically learns to timely activate the proper ML model by learning the complex dependencies between the accuracy of ML models and cell parameters. The proposed model is shown to achieve around 25% improvement in MAE for the last twenty cycles (near end-of-life) SOC estimation." /><meta property="og:image" content="https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:title" content="Orthogonal Autoencoder for Long-Term State-of-Charge Forecasting of Li-ion Battery Cells | Mayuresh Savargaonkar" />
+  <meta property="og:description" content="This paper proposes an Orthogonal Autoencoded Long-Short- Term Memory (OALSTM) network for long-term the State-Of-Charge (SOC) forecasting in Lithium-ion (Li-ion) battery cells. By leveraging the use of LSTMs in capturing temporal trends and orthogonal Autoencoder for extracting non- trivial robust latent features, OALSTM can achieve precise and accurate long-term SOC estimations near the end-of-life. One key contribution is learning orthogonal temporal encodings that generalize for long-term forecasting because it reduces the likelihood of false multicollinearity. Our results show that OALSTM outperforms other benchmark models for long-term SOC estimation of Li-ion battery cells under varying charging and discharging conditions." /><meta property="og:image" content="https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2021-08-02T00:00:00&#43;00:00"
+        content="2023-07-25T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2023-09-16T18:33:12-06:00">
+    <meta property="article:modified_time" content="2023-09-16T18:38:34-06:00">
   
 
   
@@ -386,14 +386,14 @@
     "@type": "WebPage",
     "@id": "https://mayuresh-savargaonkar.github.io/publication/oagnn/"
   },
-  "headline": "A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries",
+  "headline": "Orthogonal Autoencoder for Long-Term State-of-Charge Forecasting of Li-ion Battery Cells",
   
-  "datePublished": "2021-08-02T00:00:00Z",
-  "dateModified": "2023-09-16T18:33:12-06:00",
+  "datePublished": "2023-07-25T00:00:00Z",
+  "dateModified": "2023-09-16T18:38:34-06:00",
   
   "author": {
     "@type": "Person",
-    "name": "Isaiah Oyewole"
+    "name": "Wael Hassanieh"
   },
   
   "publisher": {
@@ -404,7 +404,7 @@
       "url": "https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "This paper proposes a hybrid LSTM network for robust state-of-charge estimation of Li-ion batteries. The proposed model improves the estimation accuracy of a typical LSTM by using the SOC estimations of other trained machine learning (ML) models in addition to the original measurable battery cell parameters to train the LSTM. The hybrid LSTM intrinsically learns to timely activate the proper ML model by learning the complex dependencies between the accuracy of ML models and cell parameters. The proposed model is shown to achieve around 25% improvement in MAE for the last twenty cycles (near end-of-life) SOC estimation."
+  "description": "This paper proposes an Orthogonal Autoencoded Long-Short- Term Memory (OALSTM) network for long-term the State-Of-Charge (SOC) forecasting in Lithium-ion (Li-ion) battery cells. By leveraging the use of LSTMs in capturing temporal trends and orthogonal Autoencoder for extracting non- trivial robust latent features, OALSTM can achieve precise and accurate long-term SOC estimations near the end-of-life. One key contribution is learning orthogonal temporal encodings that generalize for long-term forecasting because it reduces the likelihood of false multicollinearity. Our results show that OALSTM outperforms other benchmark models for long-term SOC estimation of Li-ion battery cells under varying charging and discharging conditions."
 }
 </script>
 
@@ -420,7 +420,7 @@
 
 
 
-  <title>A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries | Mayuresh Savargaonkar</title>
+  <title>Orthogonal Autoencoder for Long-Term State-of-Charge Forecasting of Li-ion Battery Cells | Mayuresh Savargaonkar</title>
 </head>
 
 
@@ -864,7 +864,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>A Hybrid Long Short-Term Memory Network for State-of-Charge Estimation of Li-ion Batteries</h1>
+  <h1>Orthogonal Autoencoder for Long-Term State-of-Charge Forecasting of Li-ion Battery Cells</h1>
 
   
 
@@ -882,10 +882,9 @@
     
 
   <span >
-      Isaiah Oyewole</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Second author"></i>, <span class="author-highlighted">
+      Wael Hassanieh</span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Second author"></i>, <span class="author-highlighted">
       Mayuresh Savargaonkar</span>, <span >
-      Abdallah Chehade</span>, <span >
-      Ala A. Hussein</span>
+      Abdallah Chehade</span>
   </div>
   
   
@@ -896,7 +895,7 @@
     
       
     
-    August, 2021
+    July, 2023
   </span>
   
 
@@ -936,7 +935,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://ieeexplore.ieee.org/abstract/document/9490188" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://ieeexplore.ieee.org/document/10186948" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -959,7 +958,7 @@
 
 
 
-<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/%20https://doi.org/10.1109/ITEC51675.2021.9490188" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/https://doi.org/10.1109/ITEC55900.2023.10186948" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -977,7 +976,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">This paper proposes a hybrid LSTM network for robust state-of-charge estimation of Li-ion batteries. The proposed model improves the estimation accuracy of a typical LSTM by using the SOC estimations of other trained machine learning (ML) models in addition to the original measurable battery cell parameters to train the LSTM. The hybrid LSTM intrinsically learns to timely activate the proper ML model by learning the complex dependencies between the accuracy of ML models and cell parameters. The proposed model is shown to achieve around 25% improvement in MAE for the last twenty cycles (near end-of-life) SOC estimation.</p>
+    <p class="pub-abstract">This paper proposes an Orthogonal Autoencoded Long-Short- Term Memory (OALSTM) network for long-term the State-Of-Charge (SOC) forecasting in Lithium-ion (Li-ion) battery cells. By leveraging the use of LSTMs in capturing temporal trends and orthogonal Autoencoder for extracting non- trivial robust latent features, OALSTM can achieve precise and accurate long-term SOC estimations near the end-of-life. One key contribution is learning orthogonal temporal encodings that generalize for long-term forecasting because it reduces the likelihood of false multicollinearity. Our results show that OALSTM outperforms other benchmark models for long-term SOC estimation of Li-ion battery cells under varying charging and discharging conditions.</p>
     
 
     
@@ -1005,7 +1004,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">2021 IEEE Transportation Electrification Conference &amp; Expo (ITEC)</div>
+          <div class="col-12 col-md-9">2023 IEEE Transportation Electrification Conference &amp; Expo (ITEC)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -1035,7 +1034,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://mayuresh-savargaonkar.github.io/publication/oagnn/&amp;text=A%20Hybrid%20Long%20Short-Term%20Memory%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Batteries" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://mayuresh-savargaonkar.github.io/publication/oagnn/&amp;text=Orthogonal%20Autoencoder%20for%20Long-Term%20State-of-Charge%20Forecasting%20of%20Li-ion%20Battery%20Cells" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1048,7 +1047,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://mayuresh-savargaonkar.github.io/publication/oagnn/&amp;t=A%20Hybrid%20Long%20Short-Term%20Memory%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Batteries" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://mayuresh-savargaonkar.github.io/publication/oagnn/&amp;t=Orthogonal%20Autoencoder%20for%20Long-Term%20State-of-Charge%20Forecasting%20of%20Li-ion%20Battery%20Cells" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1061,7 +1060,7 @@
       
       
       <li>
-        <a href="mailto:?subject=A%20Hybrid%20Long%20Short-Term%20Memory%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Batteries&amp;body=https://mayuresh-savargaonkar.github.io/publication/oagnn/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Orthogonal%20Autoencoder%20for%20Long-Term%20State-of-Charge%20Forecasting%20of%20Li-ion%20Battery%20Cells&amp;body=https://mayuresh-savargaonkar.github.io/publication/oagnn/" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1074,7 +1073,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://mayuresh-savargaonkar.github.io/publication/oagnn/&amp;title=A%20Hybrid%20Long%20Short-Term%20Memory%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Batteries" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https://mayuresh-savargaonkar.github.io/publication/oagnn/&amp;title=Orthogonal%20Autoencoder%20for%20Long-Term%20State-of-Charge%20Forecasting%20of%20Li-ion%20Battery%20Cells" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1087,7 +1086,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=A%20Hybrid%20Long%20Short-Term%20Memory%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Batteries%20https://mayuresh-savargaonkar.github.io/publication/oagnn/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Orthogonal%20Autoencoder%20for%20Long-Term%20State-of-Charge%20Forecasting%20of%20Li-ion%20Battery%20Cells%20https://mayuresh-savargaonkar.github.io/publication/oagnn/" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1100,7 +1099,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://mayuresh-savargaonkar.github.io/publication/oagnn/&amp;title=A%20Hybrid%20Long%20Short-Term%20Memory%20Network%20for%20State-of-Charge%20Estimation%20of%20Li-ion%20Batteries" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://mayuresh-savargaonkar.github.io/publication/oagnn/&amp;title=Orthogonal%20Autoencoder%20for%20Long-Term%20State-of-Charge%20Forecasting%20of%20Li-ion%20Battery%20Cells" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1255,12 +1254,6 @@
 
     </div>
   </div>
-
-
-  
-    
-
-
 
 
   
