@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Mayuresh Savargaonkar</title>
+    <link>https://mayuresh-savargaonkar.github.io/publication-type/4/</link>
+      <atom:link href="https://mayuresh-savargaonkar.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mayuresh-savargaonkar.github.io/media/icon_hu03f0715a26910b6acfc0d853c045da1e_34977_512x512_fill_lanczos_center_3.png</url>
+      <title>4</title>
+      <link>https://mayuresh-savargaonkar.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Recommendations for Minimum Required Error Codes</title>
+      <link>https://mayuresh-savargaonkar.github.io/publication/mrec/</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mayuresh-savargaonkar.github.io/publication/mrec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
